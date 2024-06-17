@@ -22,14 +22,14 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 <h1>I built this app using the latest version of next.js</h1> 
 
-```bash
+
 <p>The animations were done using framermotion</p>
 <p>The app shows some a demo of my projects</p>
 <p>The app features some places expereiences i have, technologies i have worked with over time</p>
 <p>It shows some organisations/firme i have worked with..</p>
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-```
+
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
