@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Welcome to my Portfolio app. 
 
 First, run the development server:
 
@@ -18,10 +18,14 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Learn More About my app
 
-To learn more about Next.js, take a look at the following resources:
+<h1>**I built this app using the latest version of next.js**</h1> 
 
+<p>The animations were done using framermotion</p>
+<p>The app shows some a demo of my projects</p>
+<p>The app features some places expereiences i have, technologies i have worked with over time</p>
+<p>It shows some organisations/firme i have worked with..</p>
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
