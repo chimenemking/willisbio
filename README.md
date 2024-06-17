@@ -20,8 +20,9 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Learn More About my app
 
-<h1>**I built this app using the latest version of next.js**</h1> 
+<h1>I built this app using the latest version of next.js</h1> 
 
+```bash
 <p>The animations were done using framermotion</p>
 <p>The app shows some a demo of my projects</p>
 <p>The app features some places expereiences i have, technologies i have worked with over time</p>
